@@ -11,6 +11,9 @@
     "panel.background": "#191919",
     "activityBar.background": "#480B6C",
     "titleBar.activeBackground": "#650F97",
-    "titleBar.activeForeground": "#FCF9FE"
+    "titleBar.activeForeground": "#FCF9FE",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wrappingIndent": "same",
+    "editor.wordWrapColumn": 80
   }
 }
